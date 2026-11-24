@@ -1,9 +1,7 @@
 01234567891123456789212345678931234567
 
-[calendar] 
+[cal]
 
-now
-...
 11/23 - m - rec love seat, put love seat together, [showered], got mail from rv, goto optimum return box, food truck burritos, car wash, walmart, kroger, received my chair, got switch 2 with acnh.
 11/24 - t - sushi breakfast, setup switch 2, hang pictures appliance repair 8a-12p, ss$4 in.
 11/25 - w - 
@@ -13,4 +11,17 @@ now
 11/29 - s -
 11/30 - m - 
 12/01 - t - 
+
+[do]
+
+. move rv
+. get title 
+. sell element 
+. change address usps 
+. get tree branch cut by elec co 
+. 11/21 - 4/22 : apple tv cancel $6.99/6 months end back to $14.99/months
+. 01/22 - assessments
+. change license
+. notify ss new address
+
 
