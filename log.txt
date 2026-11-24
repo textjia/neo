@@ -1,0 +1,100 @@
+[log]
+....................
+. 11/24 - t - h20 line fix, su switch 2
+[2026]
+. 02/05 - craft $80 x 4 20gal tanks, uams last visit, economart $20 last meds 2.5 x twice daily
+. 01/31 - insulated water line and set up sewer hose with braces
+. 01/30 - taped tarp around rv
+. 01/29 - change tank out [1] left
+. 01/22 - nathan booked into jail @ 11:30am
+. 01/17 - changed tank out [1] left after this one
+. 01/15 - started new meds 5mg only 2 x daily
+. 01/09 - switched tank out [2] full tanks
+. 01/08 - steve's good order received 
+. 01/05 - switch tank this am [3] full left
+. 01/04 - wmt $80 - filled [4] 20gal tanks
+. 01/03 - switched 20 gal tank last one
+. 01/02 - cgs changed address for w2
+. 01/01 - spoke to dorothy on the phone
+. 12/31 - switched 20 gal tank [1] left
+. 12/28 - spoke to grace, spoke to mom
+. 12/27 - wmt $170, switch 20 gal tank [3] left
+. 12/24 - called mom 2 hours + call
+. 12/22 - pu gibson's pharm meds for 6 weeks
+. 12/22 - wmt $30 water, candy, karma, soy, oninos
+. 12/22 - buy 4 x 20gal tanks $80
+. 12/22 - swapped out tank 1 20gal
+. 12/22 - open new cbd jar
+. 12/21 - cgs pay received, xfer to cat, called gibson confirmed pu for tomorrow before 6pm
+. 12/19 - am switched last 20gal tank [3] days [0] left
+. 12/19 - js target 2 windows at once
+. 12/18 - wmt $50, uams dr albertson, heart monitor, spoke to mom
+. 12/16 - aldi 6 cucumbers 2 mushrooms
+. 12/16 - laundry dry and wash sheets
+. 12/16 - switch 20gal gas tank [5] days [1] left
+. 12/15 - cb nav poc
+. 12/15 - 8 x cnn
+. 12/14 - ordered chewy
+. 12/14 - usps mail mom pkg, changed address, wmt $100 [6 days]
+. 12/14 - move total count to top
+. 12/14 - {%- and -%} to remove whitespace
+. 12/14 - published cnn news
+. 12/14 - add cnn total count
+. 12/13 - received cbd [5] ordered F got it on W
+. 12/13 - key3, pagination, id, title, ingredient, country, dish
+. 12/13 - key1, key2 collections
+. 12/12 - made sweet rice balls dish
+. 12/12 - json file data 11ty
+. 12/12 - pagination success 11ty
+. 12/11 - switch out 15g tank - [2] left
+. 12/09 - v.secret lives of pets 2, o.dorothy.cnn
+. 12/08 - wmt $80 groceries
+. 12/08 - craft propane 3x20gal refill
+. 12/08 - candy news network
+. 12/08 - u.openweather.api
+. 12/08 - order # 490 steve's goods
+. 12/07 - got paid 1 day early
+. 12/07 - emailed steve 30% issue
+. 12/07 - switch 15p tank (4)
+. 12/05 - buy 15p tank @ wmt
+. 12/05 - ps x 9
+. 10/12 - cgs.pw
+. 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+
+0123456789112345678921
