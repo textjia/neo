@@ -1,14 +1,14 @@
 [bills]
 ....................
-. electric
-. water & sewer
+. ele
+. wat & sew
 . gas
 . att
-. internet
-. amazon prime
-. netflix
-. disney & hulu
-. paramont +
+. int
+. amz prm
+. net
+. dis & hu
+. pmt +
 .
 .
 .
