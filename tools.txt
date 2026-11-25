@@ -1,6 +1,7 @@
 [tools]
 ....................
 bf - breakfast
+co - company
 pu - push ups 
 su - situp & setup
 
