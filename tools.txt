@@ -8,6 +8,7 @@ ck - check
 co - company
 cz - cheese
 gp - garlic powder
+hu - hulu
 mv - move
 ol - olive oil
 ph - preheat
