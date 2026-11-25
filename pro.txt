@@ -8,7 +8,7 @@ d - do
 e - eat 
 f - friday 
 g - go 
-h - 
+h - hang
 i - 
 j - 
 k - 
