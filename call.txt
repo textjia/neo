@@ -1,6 +1,6 @@
 [call]
 ....................
-. elec co - cut tree
+. ele co - ct tree
 .
 .
 .
