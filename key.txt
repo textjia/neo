@@ -1,8 +1,23 @@
 [key] 
 ....................
 ass - assessment
+bas - basket
+bot - bottom
+bsv - balsalmic vin
 coo - cook
+csp - chrispy
+ext - extra
+hon - honey
+ing - ingredients
+ins - instructions
 lic - license
+min - minutes
+opt - optional
+par - parmesan
+shk - shaking
+tbs - tablespoon
+thr - through
+tsp - teaspoon
 
 
 
