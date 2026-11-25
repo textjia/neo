@@ -24,6 +24,7 @@
 
 [data]
 ....................
+auto u-pull ..... 05
 assessor off .... 04
 arbyrd city ..... 01
 elec ............ 03
@@ -50,6 +51,11 @@ pemiscott elec
 mo assessor
 (573)888-1409
 (573)888-2077
+
+[05]
+
+u-pull save
+(870)333-5287
 
 
 
