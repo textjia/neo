@@ -1,6 +1,7 @@
 [key] 
 ....................
 ass - assessment
+coo - cook
 lic - license
 
 
