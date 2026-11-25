@@ -1,23 +1,33 @@
 [key] 
 ....................
+amz - amazon
 ass - assessment
 bas - basket
 bot - bottom
 bsv - balsalmic vin
 coo - cook
 csp - chrispy
+dis - disney
+ele - electric
 ext - extra
 hon - honey
 ing - ingredients
 ins - instructions
+int - internet
 lic - license
 min - minutes
+net - netflix
 opt - optional
 par - parmesan
+pmt - paramount
+prm - prime
+sew - sewer
 shk - shaking
 tbs - tablespoon
 thr - through
 tsp - teaspoon
+wat - water
+
 
 
 
