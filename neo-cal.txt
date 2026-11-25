@@ -22,4 +22,44 @@
 . change license
 . notify ss new address
 
+[data]
+....................
+assessor off .... 04
+arbyrd city ..... 01
+elec ............ 03
+gas liberty ..... 02
+
+[01]
+
+arbyrd city 
+(573)654-3834
+
+[02]
+
+liberty gas
+(855)872-3242
+
+[03]
+
+pemiscott elec
++ internet
+(800)558-6641
+
+[04]
+
+mo assessor
+(573)888-1409
+(573)888-2077
+
+
+
+
+
+
+
+
+
+
+
+
 
