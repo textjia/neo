@@ -1,5 +1,7 @@
 [key] 
 ....................
+ass - assessment
+lic - license
 
 
 
