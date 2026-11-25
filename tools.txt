@@ -1,11 +1,21 @@
 [tools]
 ....................
+af - air fryer
 bf - breakfast
+bp - black pepper
+bs - brussel sprouts
 ck - check
 co - company
+cz - cheese
+gp - garlic powder
 mv - move
+ol - olive oil
+ph - preheat
+pl - place
 pu - push ups 
+st - salt
 su - situp & setup
+ws - wash
 
 
 
