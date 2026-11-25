@@ -1,7 +1,9 @@
 [tools]
 ....................
 bf - breakfast
+ck - check
 co - company
+mv - move
 pu - push ups 
 su - situp & setup
 
