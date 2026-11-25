@@ -1,5 +1,6 @@
 [pro] 
 ....................
+> - after
 < - back
 $ - sell, buy
 4 - for 
