@@ -5,7 +5,6 @@
 
 [11/2026]
 
-26.r:
 27.f:buschhett@6a,
 rv.ck.mail
 28.s:
